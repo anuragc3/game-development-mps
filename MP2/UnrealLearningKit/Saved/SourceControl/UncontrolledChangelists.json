@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/anuragc3/Desktop/GameDev/game-development-mps/MP2/UnrealLearningKit/Content/Level1.umap"
+				"C:/Users/anuragc3/Desktop/GameDev/game-development-mps/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/anuragc3/Desktop/GameDev/game-development-mps/MP2/UnrealLearningKit/Content/HUD.uasset"
 			]
 		}
 	]
