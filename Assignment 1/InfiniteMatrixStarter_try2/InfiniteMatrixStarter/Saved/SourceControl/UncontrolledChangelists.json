@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/hb_empty.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/hb_full.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/T_HealthBar.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/M_StackedProgress.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/MI_Health.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/HealthInterface/HealthInterface.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/BP_HealthPickup.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player_Health.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player_HUD.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Assests/nose_red.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Assests/character-zombie.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Assests/character-vampire.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/Blueprints/character-vampire_torso.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/BasicMeshes/MI_Floor_01.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Player_health.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Widgets/StackedProgressBar_Widget.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Widgets/Health_Widget.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/Widgets/HUD.uasset",
+				"C:/Users/anura/OneDrive/Documents/UIUC/Spring 2024/Game_Development_415/Assignment 1/InfiniteMatrixStarter_try2/InfiniteMatrixStarter/Content/InfiniteMatrix/HealthInterface/Health.uasset"
+			]
+		}
+	]
+}
